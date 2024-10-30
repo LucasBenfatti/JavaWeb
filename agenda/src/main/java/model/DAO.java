@@ -24,7 +24,7 @@ public class DAO {
 	private String user = "root";
 	
 	/** The password. */
-	private String password = "371189";
+	private String password = "******";
 
 	// Método de conexão
 
